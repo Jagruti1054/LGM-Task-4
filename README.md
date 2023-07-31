@@ -1,2 +1,1 @@
-# LGM-Task-4
-Lets Grow More Task 4 As a online internship
+This is a attractive calculator made by Isha.There two themes dark and light hope you like it!!
